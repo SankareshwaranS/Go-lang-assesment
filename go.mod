@@ -1,3 +1,3 @@
-module customer_labs_assessment
+module test_assesment
 
 go 1.18
